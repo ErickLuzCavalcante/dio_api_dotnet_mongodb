@@ -4785,7 +4785,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "MongoDB.Driver >= *"
+      "MongoDB.Driver >= 2.11.0"
     ]
   },
   "packageFolders": {
@@ -4795,11 +4795,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Erick Luz Cavalcante\\git\\dio_api_dotnet_mongodb\\Api\\Api.csproj",
+      "projectUniqueName": "c:\\Users\\Erick Luz Cavalcante\\git\\dio_api_dotnet_mongodb\\Api\\Api.csproj",
       "projectName": "Api",
-      "projectPath": "C:\\Users\\Erick Luz Cavalcante\\git\\dio_api_dotnet_mongodb\\Api\\Api.csproj",
+      "projectPath": "c:\\Users\\Erick Luz Cavalcante\\git\\dio_api_dotnet_mongodb\\Api\\Api.csproj",
       "packagesPath": "C:\\Users\\Erick Luz Cavalcante\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Erick Luz Cavalcante\\git\\dio_api_dotnet_mongodb\\Api\\obj\\",
+      "outputPath": "c:\\Users\\Erick Luz Cavalcante\\git\\dio_api_dotnet_mongodb\\Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -4832,7 +4832,7 @@
         "dependencies": {
           "MongoDB.Driver": {
             "target": "Package",
-            "version": "[*, )"
+            "version": "[2.11.0, )"
           }
         },
         "imports": [
